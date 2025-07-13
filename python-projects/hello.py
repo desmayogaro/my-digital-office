@@ -1,8 +1,0 @@
-print("Hello, World!")
-print("My tech journey starts here.")
-print("I am excited to learn Python.")
-print("I hope i get to where i want to be in this tech journey!")
-print("I will keep pushing forward.")
-print("Every day is a new opportunity to learn.")
-print("Let's make the most of it!")
-print("Thank you for being part of my journey.")
